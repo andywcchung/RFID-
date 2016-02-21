@@ -1,0 +1,12 @@
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\VB Native Demo\obj\Release\ResolveAssemblyReference.cache
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\VB Native Demo\obj\Release\VB_Native_Demo.Form1.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\VB Native Demo\obj\Release\VB_Native_Demo.Resources.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\VB Native Demo\obj\Release\VB Native Demo.vbproj.GenerateResource.Cache
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\VB Native Demo\bin\Release\VB Native Demo.exe
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\VB Native Demo\bin\Release\VB Native Demo.pdb
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\VB Native Demo\bin\Release\VB Native Demo.xml
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\VB Native Demo\bin\Release\CSLibrary.dll
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\VB Native Demo\bin\Release\CSLibrary.pdb
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\VB Native Demo\obj\Release\VB Native Demo.exe
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\VB Native Demo\obj\Release\VB Native Demo.xml
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\VB Native Demo\obj\Release\VB Native Demo.pdb

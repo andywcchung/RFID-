@@ -1,0 +1,425 @@
+3.1.124
+-------
+1. Added reader address input feature in VB demo
+
+3.1.123
+-------
+1. Added protection in VB demo to protect inventory on/off frequently
+
+3.1.122
+-------
+1. Fixed Program wrong path problem.
+
+3.1.121
+-------
+1. Added VB RFID demo. the demo program hardcode to connect to reader IP 192.168.25.208
+
+3.1.120
+-------
+1. Cancel to set MAC address 0x300 register, when LBT off.
+2. CSLibrary upgrade to 3.0.89
+
+3.1.119
+-------
+1. Fixed long time search com port reader (change to multi-thread search)
+2. CSLibrary upgrade to 3.0.88
+
+3.1.118
+--------
+1. Fixed can not select fix channel
+2. Cancel TCP 1516 port API
+3. Added 5v control to "Check Status" demo
+4. CSLibrary upgrade to 3.0.87
+
+3.1.117
+-------
+1. Fix pack old file into binary directory error
+
+3.1.116
+-------
+1. Fix can not connect reader in USB mode
+2. CSLibrary upgrade to 3.0.86
+
+3.1.115
+-------
+1. Fix can not kill tag.
+2. CSLibrary upgrade to 3.0.82
+
+3.1.114
+-------
+1. Added new reader status "DEVICE_CONNECTED" for reader already connected with other PC
+2. CSLibrary upgrade 3.0.81
+
+3.1.113
+-------
+1. Fix power level switch to 30db when reconnect connection
+2. Fix Qvalue changed when reconnect connection
+3. Fix can not save Qvalue in configuration file
+4. Added profile record when stop inventory
+5. CSLibrary upgrade 3.0.80
+
+3.1.112
+-------
+1. Added netfinder check when start connection
+2. Send force reset when reader in bootloader mode
+3. CSLibrary upgrade 3.0.79
+
+3.1.111
+-------
+1. Change UI text of label "reset if gateway cannot be found"
+2. Fix show wrong status of "reset if gateway cannot be found" after upgrade network proc app
+3. Send reset when TCP connection fail
+4. CSLibrary upgrade 3.0.78
+
+3.1.110
+-------
+1. Added 1516 port receive data 5s time out
+2. CSLibrary upgrade 3.0.77
+
+3.1.109
+-------
+1. add 5s timeout when not received "command begin packet"
+2. CSLibrary upgrade to 3.0.76
+
+3.1.108
+-------
+1. Support gateway check reset mode bit
+2. CSLibrary upgrade to 3.0.75
+
+3.1.107
+-------
+1. Added 4s delay when reconnect the reader.
+2. CSLibrary upgrade to 3.0.74
+
+3.1.106
+-------
+1. Fix 3.1.105 connection fail problem
+2. CSLibrary upgrade to 3.0.73
+
+3.1.105
+-------
+1. Retry UDP check version 3 times if fail, and use TCP 1516 if 3 times UDP error
+2. CSLibrary upgrade to 3.0.72
+
+3.1.104
+-------
+1. Auto check UDP/TCP comannd when get 8051 version
+2. CSLibrary upgrade to 3.0.71
+
+3.1.103
+-------
+1. Change Profile List (JP2012 = 2, 3, 5, others = 0, 1, 2, 3, 4, 5)
+2. CSLibrary upgrade to 3.0.70
+
+3.1.102 (only for Network Proc 8051 App 2.18.49 or latest)
+-------
+1. Voided all port 1516 command 
+2. CSLibrary upgrade to 3.0.69
+
+3.1.101
+-------
+1. Change setup page UI
+2. Change operation command from  "SETMASK" to "GENERALSELECTED"
+3. Added selected mask feature in all demo page.
+4. CSLibrary upgrade to 3.0.68
+
+3.1.100
+-------
+1. Fix problem of UDB port hold on when the target machine not response.
+2. Added Inventory set mask demo
+3. CSLibrary added new oprtation command "SETMASK"
+4. CSLibrary upgrade to 3.0.67
+
+3.1.99
+------
+1. Fix can not run GPI interrupt routine
+2. Change GPI interrupt API call parameter format
+3. CSLibrary upgrade to 3.0.65
+
+3.1.98
+------
+1. Add country "JE" in -2 Type machine
+2. CSLibrary upgrade to 3.0.64
+
+3.1.97
+------
+1. Fix some time holding 1516 port problem
+2. CSLibrary upgrade to 3.0.63
+
+3.1.96
+------
+1. Fix can not reconnect the reader when disconnected before of starting inventory.
+2. CSLibrary update to 3.0.61
+
+3.1.95
+------
+1. Added new UCODE7 TID "E2806810"
+
+3.1.94
+------
+1. Fix exception of EPC length too short.
+
+3.1.93
+------
+1. disable CS8304/05 SPI port by default and auto enable when start temp log.
+
+3.1.92
+------
+1. Fix ColdChain Log offset can not set to negative value.
+
+3.1.91
+------
+1. Fix index alway show "1" in cold chain temperature log monitor page.
+
+3.1.90
+------
+1. Speed up "stop inventory" process
+2. CSLibrary upgrade to 3.0.60
+
+3.1.89
+------
+1. Cancel Antenna Sense Threshold and Antrnna Seense Value setting
+2. Send abort command before of Write OEM data.
+3. CSLibrary update to 3.0.59
+
+3.1.88
+------
+1. Change main menu UI.
+
+3.1.87
+------
+1. Fix check subnet error message.
+2. Added PC IP information in netfinder screen.
+
+3.1.86
+------
+1. Supported two temperature monitors in coldchain log.
+
+3.1.85
+------
+1. Fix hang up orogram when selected tag in "TID demo page"
+
+3.1.84
+------
+1. Fix hang up orogram in "TID demo page"
+2. Change other subnet message from "warning" to "reminder"
+3. Change profile table in setup detail page
+
+3.1.83
+------
+1. Change format to millisecond in Inventory Tag Log 
+2. Show profile table in setup detail page
+3. Correct syntax error in inventory page 
+
+3.1.82
+------
+1. Added option "Group tags from difference antenna" in inventory demo page.
+
+3.1.81
+------
+1. Change UI of select tag by TID demo page
+2. Auto truncate EPC (max 256bit) in read/write demo page 
+
+3.1.80 (change modify history at 30 Jul)
+----------------------------------------
+1. Added "TID Demo" Page for demo Write EPC by index on TID+UID
+2. Fix ColdChain log show wrong temperature.
+3. Fix ColdChain log show wrong status.
+
+3.1.79
+------
+1. Added TW frequence in "-2" Device Type
+2. CSLibrary update to 3.0.55
+
+3.1.78
+------
+1. Fix can not change access lock problem.
+2. CSLibrary update to 3.0.52
+
+3.1.77
+------
+1. change Assignment page UI.
+2. display download messagebox before of start upgrade network processor image.
+3. CSLibrary update to 3.0.51
+
+3.1.76
+------
+1. add 100ms delay when write address 260 in cold chain demo page
+
+3.1.75
+------
+1. Fix read log data error
+2. CSLibrary update to 3.0.49
+
+3.1.74
+------
+1. Change cold chain log record page UI
+2. Fix read log data error
+3. CSLibrary update to 3.0.48
+
+3.1.73
+------
+1. Add Temp Offset in cold chain log record page
+2. add a new API DeviceNameOrIP to get RFID connection name/IP address
+3. CSLibray upate to 3.0.47
+
+3.1.72
+------
+1. support reconnect forever
+2. CSLibrary update to 3.0.46
+
+3.1.71
+------
+1. Fix can not store reader name when reconnect network
+
+3.1.70
+------
+1. Fix can not search multi network card error
+
+3.1.69
+------
+1. Add write retry count and process retry count
+
+3.1.68
+------
+1. Fix select wrong tag in "write any" page
+
+3.1.67
+------
+1. Add Qvalue in WriteAny Demo Page
+2. Fix wrong write tag success signal
+3. CSLibaray update to 3.0.42
+
+3.1.66
+------
+1. Add CRC16 field in inventory
+2. CSLibrary update to 3.0.41
+
+3.1.65
+------
+1. Set config path and log file path to "MyDocuments\CSLReader"
+2. Only delete old log file with same file type as your selected.
+
+3.1.64
+------
+1. Add tag log file format "csv" and "txt" option.
+2. Add tag count record in log file
+
+3.1.63
+------
+1. Add directory path for log file in inventory page
+2. Fix null EPC string error
+
+3.1.62
+------
+1. Fix hang on coldchain page
+2. CSLibrary update to 3.0.39
+
+3.1.61
+------
+1. Fix can not stop coldchain log records
+
+3.1.60
+------
+1. Added Offset and Repeat option in UCODE7 EPC Write page.
+
+3.1.59
+------
+1. Fix library display error message
+
+3.1.58
+------
+1. Added UCODE7 Demo Page
+2. Fix can not set profile problem
+3. CSLibrary update to 3.0.38
+
+3.1.57
+------
+1. Added HK and SG frequency in -2 and -4 machine
+2. CSLibrary update to 3.0.37
+
+3.1.56
+------
+1. Fix write tag error issue
+2. CSL Library update to 3.0.36
+
+3.1.55
+------
+1. Fix can not reset antenna setting when reconnect network
+2. Fix can not direct search problem
+3. CSL Library update to 3.0.35
+
+3.1.54
+------
+1. Fix can not enable local channel 0
+2. CSL Library update to 3.0.34
+
+3.1.53
+------
+1. Fix antenna config corruption error
+2. CSLibaray update to 3.0.33
+
+3.1.52
+------
+1. Change inventory page font size
+2. Add config file extension name ".cfg"
+
+3.1.51
+------
+1. Add antenna sequence
+2. Fix reconnect antenna setting error
+3. CSLibaray update to 3.0.32
+
+3.1.50
+------
+1. Fix can not auto reconnect problem
+
+3.1.49
+------
+1. Supported multi network card
+2. CSLibrary update to 3.0.31
+
+3.1.48
+------
+1. Fix can not connect serial/usb reader problem
+
+3.1.47
+------
+1. Added 5V GPO ON/OFF control in "TagInventoryWithGPIOForm" Page
+
+3.1.46
+------
+1. Netfinder search with random session number 
+2. Added subnet and gateway in netfinder screen
+3. Change cold chain tag UI
+4. CSL Library update to 3.0.28
+
+3.1.45
+------
+1. Compatible with High Level / Low Level API Mode
+2. Add set API mode demo page
+3. CSLibrary todate to 3.0.27
+
+
+3.1.44
+------
+1. Fix read TID error in Tag Inventory Page.
+2. Fix read tag packet size over 100 byte error
+3. CSLibrary update to 3.0.26
+
+3.1 43
+------
+1. Fix cold chain tag read temperature error
+
+3.1.42
+------
+1. Change UI of cold chain temperature monitor config page
+
+3.1.41
+------
+1. Change All UDP command to unicast type, except "NetSearch"
+
+
+3.1.40
+------
+1. Fix can not disable internal monitor in cold chain tag.

@@ -1,0 +1,222 @@
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CS Native Demo.exe.config
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CS Native Demo.exe
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CS Native Demo.pdb
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CSLibrary.Data.SQLite.dll
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CSLibrary.Diagnostics.dll
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CSLibrary.Windows.dll
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CSLibrary.pdb
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\ResolveAssemblyReference.cache
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.AssignForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ControlPanelForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ConfigOffset.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.MenuBar.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ReadAllBank.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.StartMenu.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.WriteAllBank.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\Custom.Control.SortListView.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\Custom.Control.ProgressBar.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.IPTextBox.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.LinkProfileInformation.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.MenuForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.MessageForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.NetFinderForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.PowerForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ProfileForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.Properties.Resources.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagBlockPermaLockForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.GeigerSearchForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagKillForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagRangingForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagReadWriteForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagSearchForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagSecurityForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ResultForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagSettingForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.UpdateProgressForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.WaitingForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ConfigureAntenna.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.CoolLogForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ControlPanelWithGpioForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ControlPanelWithAsyncGpioForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.MessageWithAsyncGpioForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagInventoryWithAsyncGpioForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormG2iLFuncTest.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.MessageWithGpioForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagInventoryWithGpioForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormColdChainFeatures.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormColdChainMonitorConfig.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormColdChainTempCalConfig.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormColdChainViewLog.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormCS9010.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormSetInterface.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormTempMonitor.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.QTMessageForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.QTControlPanelForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.QTTagInventoryForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormCoolLog.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormCoolLogConfig.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormCoolLogSearch.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormG2iLM.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormQT.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.RFIDSettingsForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagInventoryForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagInventoryWithSyncQueue.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagWriteAnyEPCForm.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS Native Demo VS2008.csproj.GenerateResource.Cache
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS Native Demo.exe
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS Native Demo.pdb
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormSetApiMode.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormColdChainDetail.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CS Native Demo.exe.config
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS Native Demo.exe
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS Native Demo.pdb
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CS Native Demo.exe
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CS Native Demo.pdb
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CSLibrary.Data.SQLite.dll
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CSLibrary.Diagnostics.dll
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CSLibrary.dll
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CSLibrary.Windows.dll
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CSLibrary.pdb
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\ResolveAssemblyReference.cache
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.AssignForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ControlPanelForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ConfigOffset.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.MenuBar.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ReadAllBank.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.StartMenu.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.WriteAllBank.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\Custom.Control.SortListView.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\Custom.Control.ProgressBar.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.IPTextBox.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.LinkProfileInformation.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.MenuForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.MessageForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.NetFinderForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.PowerForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ProfileForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.Properties.Resources.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagBlockPermaLockForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.GeigerSearchForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagKillForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagRangingForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagReadWriteForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagSearchForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagSecurityForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ResultForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagSettingForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.UpdateProgressForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.WaitingForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ConfigureAntenna.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.CoolLogForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ControlPanelWithGpioForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ControlPanelWithAsyncGpioForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormColdChainDetail.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormSetApiMode.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.MessageWithAsyncGpioForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagInventoryWithAsyncGpioForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormG2iLFuncTest.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.MessageWithGpioForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagInventoryWithGpioForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormColdChainFeatures.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormColdChainMonitorConfig.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormColdChainTempCalConfig.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormColdChainViewLog.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormCS9010.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormSetInterface.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormTempMonitor.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.QTMessageForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.QTControlPanelForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.QTTagInventoryForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormCoolLog.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormCoolLogConfig.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormCoolLogSearch.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormG2iLM.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormQT.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.RFIDSettingsForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagInventoryForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagInventoryWithSyncQueue.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagWriteAnyEPCForm.resources
+\\water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS Native Demo VS2008.csproj.GenerateResource.Cache
+D:\temp\CSLNativeTest\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CS Native Demo.exe.config
+D:\temp\CSLNativeTest\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS Native Demo.exe
+D:\temp\CSLNativeTest\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS Native Demo.pdb
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormUCODE7.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CS Native Demo.exe.config
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS Native Demo.exe
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS Native Demo.pdb
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormTIDDemo.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CS Native Demo.exe
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CS Native Demo.pdb
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CSLibrary.Data.SQLite.dll
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CSLibrary.Diagnostics.dll
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CSLibrary.dll
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CSLibrary.Windows.dll
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CSLibrary.pdb
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\ResolveAssemblyReference.cache
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.AssignForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ControlPanelForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ConfigOffset.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.MenuBar.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ReadAllBank.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.StartMenu.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.WriteAllBank.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\Custom.Control.SortListView.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\Custom.Control.ProgressBar.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.IPTextBox.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.LinkProfileInformation.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.MenuForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.MessageForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.NetFinderForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.PowerForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ProfileForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.Properties.Resources.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagBlockPermaLockForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.GeigerSearchForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagKillForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagRangingForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagReadWriteForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagSearchForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagSecurityForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ResultForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagSettingForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.UpdateProgressForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.WaitingForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ConfigureAntenna.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.CoolLogForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ControlPanelWithGpioForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.ControlPanelWithAsyncGpioForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormColdChainDetail.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormSetApiMode.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormTIDDemo.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormUCODE7.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.MessageWithAsyncGpioForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagInventoryWithAsyncGpioForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormG2iLFuncTest.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.MessageWithGpioForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagInventoryWithGpioForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormColdChainFeatures.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormColdChainMonitorConfig.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormColdChainTempCalConfig.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormColdChainViewLog.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormCS9010.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormSetInterface.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormTempMonitor.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.QTMessageForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.QTControlPanelForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.QTTagInventoryForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormCoolLog.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormCoolLogConfig.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormCoolLogSearch.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormG2iLM.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormQT.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.RFIDSettingsForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagInventoryForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagInventoryWithSyncQueue.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.TagWriteAnyEPCForm.resources
+\\Water-hp\d$\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS Native Demo VS2008.csproj.GenerateResource.Cache
+\\Water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormTIDDemo.resources
+\\Water-hp\D\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\obj\Release\CS203_CALLBACK_API_DEMO.FormUCODE7.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CS Native Demo XP\bin\VS2008 Release\CSLibrary.dll
+C:\workspace\CSL RFID Demo Build 3.1.124\Source\CS Native Demo XP\bin\VS2008 Release\CS Native Demo.exe.config
+C:\workspace\CSL RFID Demo Build 3.1.124\Source\CS Native Demo XP\obj\Release\CS Native Demo.exe
+C:\workspace\CSL RFID Demo Build 3.1.124\Source\CS Native Demo XP\obj\Release\CS Native Demo.pdb

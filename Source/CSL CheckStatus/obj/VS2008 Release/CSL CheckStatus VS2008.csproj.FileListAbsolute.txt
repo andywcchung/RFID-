@@ -1,0 +1,11 @@
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CSL CheckStatus\bin\VS2008 Release\CS203 CheckStatus.exe
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CSL CheckStatus\bin\VS2008 Release\CS203 CheckStatus.pdb
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CSL CheckStatus\bin\VS2008 Release\CSLibrary.Diagnostics.dll
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CSL CheckStatus\bin\VS2008 Release\CSLibrary.dll
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CSL CheckStatus\bin\VS2008 Release\CSLibrary.pdb
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CSL CheckStatus\obj\VS2008 Release\ResolveAssemblyReference.cache
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CSL CheckStatus\obj\VS2008 Release\CS203_CheckStatus.Form1.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CSL CheckStatus\obj\VS2008 Release\CS203_CheckStatus.Properties.Resources.resources
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CSL CheckStatus\obj\VS2008 Release\CSL CheckStatus VS2008.csproj.GenerateResource.Cache
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CSL CheckStatus\obj\VS2008 Release\CS203 CheckStatus.exe
+D:\Mephist\RFID Project - NEW\CSL RFID Demo Apps\Source\CSL CheckStatus\obj\VS2008 Release\CS203 CheckStatus.pdb
